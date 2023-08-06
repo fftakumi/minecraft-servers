@@ -1,87 +1,138 @@
-[13:03:53] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
-[13:03:57] [ServerMain/INFO]: Loaded 7 recipes
-[13:03:57] [ServerMain/INFO]: Loaded 1271 advancements
-[13:03:58] [Server thread/INFO]: Starting minecraft server version 1.20.1
-[13:03:58] [Server thread/INFO]: Loading properties
-[13:03:58] [Server thread/INFO]: Default game type: SURVIVAL
-[13:03:58] [Server thread/INFO]: Generating keypair
-[13:03:58] [Server thread/INFO]: Starting Minecraft server on *:25565
-[13:03:58] [Server thread/INFO]: Using epoll channel type
-[13:03:58] [Server thread/INFO]: Preparing level "world"
-[13:04:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:16] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:17] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:18] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:19] [Worker-Main-1/INFO]: Preparing spawn area: 0%
-[13:04:19] [Server thread/INFO]: Time elapsed: 11400 ms
-[13:04:19] [Server thread/INFO]: Done (21.073s)! For help, type "help"
-[13:04:32] [User Authenticator #1/INFO]: UUID of player Hiromamen is efdbab75-d5b6-4ff3-971c-15cf93bb16b8
-[13:04:32] [Server thread/INFO]: Hiromamen[/126.77.123.82:51303] logged in with entity id 236 at (254.03109560218192, 63.0, -405.44767838148147)
-[13:04:32] [Server thread/INFO]: Hiromamen joined the game
-[13:04:35] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2631ms or 52 ticks behind
-[13:05:35] [User Authenticator #2/INFO]: UUID of player konnitiha_hello is 17b95e04-992c-4ad5-8706-ccbfc3830474
-[13:05:35] [Server thread/INFO]: konnitiha_hello[/119.173.40.21:62773] logged in with entity id 673 at (240.8561137229917, 63.0, -410.04991474236556)
-[13:05:35] [Server thread/INFO]: konnitiha_hello joined the game
-[13:06:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2118ms or 42 ticks behind
-[13:06:33] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3101ms or 62 ticks behind
-[13:06:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3456ms or 69 ticks behind
-[13:07:12] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5217ms or 104 ticks behind
-[13:07:31] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 4018ms or 80 ticks behind
-[13:07:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2032ms or 40 ticks behind
-[13:09:49] [Server thread/INFO]: Hiromamen lost connection: Disconnected
-[13:09:49] [Server thread/INFO]: Hiromamen left the game
-[13:09:51] [Server thread/INFO]: konnitiha_hello lost connection: Timed out
-[13:09:51] [Server thread/INFO]: konnitiha_hello left the game
-[13:09:51] [Server thread/WARN]: handleDisconnection() called twice
-[13:11:03] [User Authenticator #3/INFO]: UUID of player konnitiha_hello is 17b95e04-992c-4ad5-8706-ccbfc3830474
-[13:11:04] [Server thread/INFO]: konnitiha_hello[/119.173.40.21:62798] logged in with entity id 1594 at (201.31242479261107, 65.0, -231.77308227838836)
-[13:11:04] [Server thread/INFO]: konnitiha_hello joined the game
-[13:11:06] [User Authenticator #4/INFO]: UUID of player Hiromamen is efdbab75-d5b6-4ff3-971c-15cf93bb16b8
-[13:11:07] [Server thread/INFO]: Hiromamen[/126.77.123.82:51383] logged in with entity id 1876 at (192.7999435951205, 62.9375, -226.68913848733646)
-[13:11:07] [Server thread/INFO]: Hiromamen joined the game
-[13:13:47] [Server thread/INFO]: konnitiha_hello has made the advancement [Sweet Dreams]
-[13:13:52] [Server thread/INFO]: <konnitiha_hello> desss
-[13:13:57] [Server thread/INFO]: Hiromamen has made the advancement [Sweet Dreams]
-[13:39:37] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2115ms or 42 ticks behind
-[13:40:01] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9306ms or 186 ticks behind
-[13:46:06] [Server thread/INFO]: Unknown or incomplete command, see below for error
-[13:46:06] [Server thread/INFO]: save<--[HERE]
-[13:46:57] [Server thread/INFO]: Saving the game (this may take a moment!)
-[13:46:57] [Server thread/INFO]: Saved the game
-[14:04:50] [Server thread/INFO]: Hiromamen has made the advancement [The Parrots and the Bats]
-[14:14:35] [Server thread/INFO]: Hiromamen has made the advancement [A Seedy Place]
-[14:19:12] [Server thread/INFO]: Hiromamen lost connection: Disconnected
-[14:19:12] [Server thread/INFO]: Hiromamen left the game
-[14:19:17] [Server thread/INFO]: konnitiha_hello lost connection: Disconnected
-[14:19:17] [Server thread/INFO]: konnitiha_hello left the game
-[14:19:29] [Server thread/INFO]: Saving the game (this may take a moment!)
-[14:19:29] [Server thread/INFO]: Saved the game
-[14:19:31] [Server thread/INFO]: Stopping the server
-[14:19:31] [Server thread/INFO]: Stopping server
-[14:19:31] [Server thread/INFO]: Saving players
-[14:19:31] [Server thread/INFO]: Saving worlds
-[14:19:32] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
-[14:19:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
-[14:19:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
-[14:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
-[14:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
-[14:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
-[14:19:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
+[10:53:00] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[10:53:04] [ServerMain/INFO]: Loaded 7 recipes
+[10:53:04] [ServerMain/INFO]: Loaded 1271 advancements
+[10:53:05] [Server thread/INFO]: Starting minecraft server version 1.20.1
+[10:53:05] [Server thread/INFO]: Loading properties
+[10:53:05] [Server thread/INFO]: Default game type: SURVIVAL
+[10:53:05] [Server thread/INFO]: Generating keypair
+[10:53:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[10:53:05] [Server thread/INFO]: Using epoll channel type
+[10:53:06] [Server thread/INFO]: Preparing level "world"
+[10:53:15] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:24] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:25] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:26] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[10:53:27] [Server thread/INFO]: Time elapsed: 12112 ms
+[10:53:27] [Server thread/INFO]: Done (20.785s)! For help, type "help"
+[10:53:55] [User Authenticator #1/INFO]: UUID of player konnitiha_hello is 17b95e04-992c-4ad5-8706-ccbfc3830474
+[10:53:55] [Server thread/INFO]: konnitiha_hello[/119.173.40.21:64507] logged in with entity id 207 at (194.35034703744807, 63.0, -226.84916746113385)
+[10:53:55] [Server thread/INFO]: konnitiha_hello joined the game
+[11:01:03] [User Authenticator #2/INFO]: UUID of player Hiromamen is efdbab75-d5b6-4ff3-971c-15cf93bb16b8
+[11:01:04] [Server thread/INFO]: Hiromamen[/126.77.123.82:55212] logged in with entity id 1366 at (184.60721620619685, 64.0, -212.095189084545)
+[11:01:04] [Server thread/INFO]: Hiromamen joined the game
+[11:06:11] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=169, y=63, z=-253} gu{x=168, y=63, z=-252}
+[11:06:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=164, y=64, z=-203} gu{x=163, y=63, z=-202}
+[11:06:38] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=164, y=64, z=-203} gu{x=163, y=63, z=-202}
+[11:25:57] [Server thread/INFO]: konnitiha_hello was shot by Skeleton
+[11:45:00] [Server thread/INFO]: Hiromamen fell from a high place
+[11:56:54] [Server thread/INFO]: konnitiha_hello lost connection: Disconnected
+[11:56:54] [Server thread/INFO]: konnitiha_hello left the game
+[11:56:57] [User Authenticator #3/INFO]: UUID of player konnitiha_hello is 17b95e04-992c-4ad5-8706-ccbfc3830474
+[11:56:57] [Server thread/INFO]: konnitiha_hello[/119.173.40.21:55813] logged in with entity id 12863 at (309.69999998807907, -43.0, -221.4426562174064)
+[11:56:57] [Server thread/INFO]: konnitiha_hello joined the game
+[11:57:06] [Server thread/INFO]: konnitiha_hello lost connection: Disconnected
+[11:57:06] [Server thread/INFO]: konnitiha_hello left the game
+[11:57:43] [User Authenticator #4/INFO]: UUID of player konnitiha_hello is 17b95e04-992c-4ad5-8706-ccbfc3830474
+[11:57:43] [Server thread/INFO]: konnitiha_hello[/119.173.40.21:55953] logged in with entity id 13025 at (313.19743120447964, -42.0, -223.966646680272)
+[11:57:43] [Server thread/INFO]: konnitiha_hello joined the game
+[11:57:51] [Server thread/INFO]: konnitiha_hello lost connection: Disconnected
+[11:57:51] [Server thread/INFO]: konnitiha_hello left the game
+[11:59:54] [User Authenticator #5/INFO]: UUID of player konnitiha_hello is 17b95e04-992c-4ad5-8706-ccbfc3830474
+[11:59:54] [Server thread/INFO]: konnitiha_hello[/119.173.40.21:56259] logged in with entity id 13479 at (311.79641583805926, -41.0, -221.87126451804497)
+[11:59:54] [Server thread/INFO]: konnitiha_hello joined the game
+[12:03:36] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=132, y=64, z=-207} gu{x=133, y=63, z=-208}
+[12:15:55] [Server thread/INFO]: konnitiha_hello was shot by Skeleton
+[12:23:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2076ms or 41 ticks behind
+[12:23:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2587ms or 51 ticks behind
+[12:24:10] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2286ms or 45 ticks behind
+[12:28:17] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2021ms or 40 ticks behind
+[12:28:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2071ms or 41 ticks behind
+[12:29:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2001ms or 40 ticks behind
+[12:30:43] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2229ms or 44 ticks behind
+[12:33:37] [Server thread/INFO]: konnitiha_hello lost connection: Disconnected
+[12:33:37] [Server thread/INFO]: konnitiha_hello left the game
+[12:34:04] [User Authenticator #6/INFO]: UUID of player konnitiha_hello is 17b95e04-992c-4ad5-8706-ccbfc3830474
+[12:34:04] [Server thread/INFO]: konnitiha_hello[/119.173.40.21:60399] logged in with entity id 23363 at (-240.46268459448788, 63.0, -792.5478894960328)
+[12:34:04] [Server thread/INFO]: konnitiha_hello joined the game
+[12:35:18] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2181ms or 43 ticks behind
+[12:35:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-139, y=65, z=-639} gu{x=-138, y=63, z=-638}
+[12:35:34] [Server thread/WARN]: Mismatch in destroy block pos: gu{x=-139, y=65, z=-639} gu{x=-138, y=63, z=-638}
+[12:35:38] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2192ms or 43 ticks behind
+[12:35:56] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2820ms or 56 ticks behind
+[12:36:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2305ms or 46 ticks behind
+[12:36:34] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2187ms or 43 ticks behind
+[12:36:51] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2322ms or 46 ticks behind
+[12:37:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2061ms or 41 ticks behind
+[12:53:28] [Server thread/INFO]: konnitiha_hello has made the advancement [Diamonds!]
+[12:59:57] [Server thread/INFO]: Hiromamen has made the advancement [Diamonds!]
+[13:04:25] [Server thread/INFO]: konnitiha_hello lost connection: Disconnected
+[13:04:25] [Server thread/INFO]: konnitiha_hello left the game
+[13:04:27] [User Authenticator #7/INFO]: UUID of player konnitiha_hello is 17b95e04-992c-4ad5-8706-ccbfc3830474
+[13:04:27] [Server thread/INFO]: konnitiha_hello[/119.173.40.21:64098] logged in with entity id 31065 at (325.69999998807907, -48.0, -232.69999998807907)
+[13:04:27] [Server thread/INFO]: konnitiha_hello joined the game
+[13:06:38] [Server thread/INFO]: konnitiha_hello lost connection: Disconnected
+[13:06:38] [Server thread/INFO]: konnitiha_hello left the game
+[13:07:11] [User Authenticator #8/INFO]: UUID of player konnitiha_hello is 17b95e04-992c-4ad5-8706-ccbfc3830474
+[13:07:11] [Server thread/INFO]: konnitiha_hello[/119.173.40.21:64480] logged in with entity id 31780 at (325.98360026149425, -54.0, -293.69999998807907)
+[13:07:11] [Server thread/INFO]: konnitiha_hello joined the game
+[13:07:34] [Server thread/INFO]: konnitiha_hello has made the advancement [Ice Bucket Challenge]
+[13:11:53] [Server thread/INFO]: Hiromamen has made the advancement [Ice Bucket Challenge]
+[13:13:00] [Server thread/INFO]: konnitiha_hello has made the advancement [We Need to Go Deeper]
+[13:13:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9510ms or 190 ticks behind
+[13:13:23] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2330ms or 46 ticks behind
+[13:15:42] [Server thread/INFO]: Saving the game (this may take a moment!)
+[13:15:42] [Server thread/INFO]: Saved the game
+[13:17:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2010ms or 40 ticks behind
+[13:17:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5278ms or 105 ticks behind
+[13:17:50] [Server thread/INFO]: Hiromamen has made the advancement [We Need to Go Deeper]
+[13:21:06] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2072ms or 41 ticks behind
+[13:21:30] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 9504ms or 190 ticks behind
+[13:21:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2260ms or 45 ticks behind
+[13:22:52] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2011ms or 40 ticks behind
+[13:24:44] [Server thread/INFO]: konnitiha_hello tried to swim in lava
+[13:24:53] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2127ms or 42 ticks behind
+[13:25:58] [Server thread/INFO]: Hiromamen has completed the challenge [Return to Sender]
+[13:26:02] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2036ms or 40 ticks behind
+[13:26:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2031ms or 40 ticks behind
+[13:27:14] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2521ms or 50 ticks behind
+[13:27:45] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2029ms or 40 ticks behind
+[13:29:29] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2022ms or 40 ticks behind
+[13:30:36] [Server thread/INFO]: konnitiha_hello has made the advancement [Fishy Business]
+[13:40:46] [Server thread/INFO]: Hiromamen lost connection: Disconnected
+[13:40:46] [Server thread/INFO]: Hiromamen left the game
+[13:40:54] [Server thread/INFO]: konnitiha_hello lost connection: Disconnected
+[13:40:54] [Server thread/INFO]: konnitiha_hello left the game
+[13:44:06] [Server thread/INFO]: Saving the game (this may take a moment!)
+[13:44:06] [Server thread/INFO]: Saved the game
+[13:44:08] [Server thread/INFO]: Stopping the server
+[13:44:08] [Server thread/INFO]: Stopping server
+[13:44:08] [Server thread/INFO]: Saving players
+[13:44:08] [Server thread/INFO]: Saving worlds
+[13:44:08] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[13:44:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[13:44:09] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[13:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[13:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[13:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[13:44:09] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
