@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "efdbab75-d5b6-4ff3-971c-15cf93bb16b8",
+    "name": "Hiromamen",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "17b95e04-992c-4ad5-8706-ccbfc3830474",
+    "name": "konnitiha_hello",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
