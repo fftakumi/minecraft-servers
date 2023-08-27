@@ -1,1 +1,8 @@
-[]
+[
+  {
+    "uuid": "17b95e04-992c-4ad5-8706-ccbfc3830474",
+    "name": "konnitiha_hello",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
